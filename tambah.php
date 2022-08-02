@@ -11,12 +11,20 @@
         <input type="text" name="nama" id="nama">
     </li>
     <li>
-        <label for="kelas">kelas</label>
-        <input type="text" name="kelas" id="kelas">
+        <label for="asrama">asrama</label>
+        <input type="text" name="asrama" id="asrama">
     </li>
     <li>
-        <label for="madrasah">madrasah</label>
-        <input type="text"name="madrasah" id="madrasah">
+        <label for="score awal">score awal</label>
+        <input type="text"name="score awal" id="score awal">
+    </li>
+    <li>
+        <label for="score akhir">score akhir</label>
+        <input type="text"name="score akhir" id="score akhir">
+    </li>
+    <li>
+        <label for="jumlah">jumlah</label>
+        <input type="text"name="jumlah" id="jumlah">
     </li>
     
   </ul>
