@@ -1,7 +1,7 @@
 <?php
 require 'functions.php';
 //ambil data santri
-$santri = query("SELECT * FROM data_santri");
+$santri = query("SELECT * FROM arsip_pelanggaran");
 
 ?>
 <!DOCTYPE html>

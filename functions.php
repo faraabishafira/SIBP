@@ -1,6 +1,6 @@
 <?php
 
-$cont = mysqli_connect("localhost", "root", "", "sibp");
+$cont = mysqli_connect("localhost", "root", "", "_sibp");
 
 function query($query)
 {
