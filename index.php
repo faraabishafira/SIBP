@@ -21,8 +21,10 @@ $santri = query("SELECT * FROM data_santri");
         <th>no</th>
         <th>nis</th>
         <th>nama</th>
-        <th>kelas</th>
-        <th>madrasah</th>
+        <th>asrama</th>
+        <th>score awal</th>
+        <th>score akhir</th>
+        <th>jumlah</th>
     </tr>
     <?php $i = 1; ?>
 
@@ -33,8 +35,10 @@ $santri = query("SELECT * FROM data_santri");
         <td><?= $i; ?></td>
         <td><?= $row["nis"];  ?></td>
         <td><?= $row["nama"]; ?></td>
-        <td><?= $row["kelas"]; ?></td>
-        <td><?= $row["madrasah"]; ?></td>
+        <td><?= $row["asrama"]; ?></td>
+        <td><?= $row["score awal"]; ?></td>
+        <td><?= $row["score akhir"]; ?></td>
+        <td><?= $row["jumlah"]; ?></td>
         
         </tr>
         <?php $i++; ?>
