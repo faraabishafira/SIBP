@@ -67,12 +67,11 @@
                     <div class="row justify-content-center text-center">
                         <div class="col-4 md-4">
                             <p>pada tahun 1908 ketika pesantren baru dibangun oleh KHR.Syamsul Arifin masih dlam kondisi yang sunyi dan set_include_pathkarena letaknya ditengah hutan belantara. pada tahun tersebut masih merupakan awal berdirinya pondok pesantren.
+                            satu dua tahun berikutnya santri mulai berdatangan, terutama dari daerah sekitar dan famili-famili KHR. Syamsul Arifin sendiri dari madura.barulah enam tahun kemudian dari rintisan awal berdirinya pondok pesantren Salafiyah Syafiiyah Sukorejo diresmikan dan dapat pengesahan langsung dari Bupati Situbondo. yaitu pada tahun 1914 M.
 
                             </p>
                         </div>
-                        <div class="col-4">
-                            <p>satu dua tahun berikutnya santri mulai berdatangan, terutama dari daerah sekitar dan famili-famili KHR. Syamsul Arifin sendiri dari madura.barulah enam tahun kemudian dari rintisan awal berdirinya pondok pesantren Salafiyah Syafiiyah Sukorejo diresmikan dan dapat pengesahan langsung dari Bupati Situbondo. yaitu pada tahun 1914 M.</p>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
